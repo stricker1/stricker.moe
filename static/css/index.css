@@ -1,10 +1,6 @@
 @font-face {
-    font-family: "Poppins";
-    src: url(../fonts/Poppins-Regular.ttf);
-  }
-  
-  div {
-    font-family: myFirstFont;
+    font-family: 'Poppins';
+    src: url(../static/fonts/Poppins-Regular.ttf);
   }
 
 :root {
